@@ -1,0 +1,5 @@
+awsecrets.py
+__pycache__
+sunpower.cfg
+sunpower.cred
+*.swp
